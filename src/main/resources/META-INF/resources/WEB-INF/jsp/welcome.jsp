@@ -9,6 +9,5 @@
 <body>
 <h1>Welcome to ToDo List</h1>
 	<p>You made it in, ${name}!</p>
-	<p>Your password: ${password}</p>
 </body>
 </html>

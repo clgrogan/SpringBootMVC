@@ -8,6 +8,7 @@
 </head>
 <body>
 	<h2>Welcome to the login page!</h2>
+	<h3>${error}</h3>
 	<form method="post">
 	Name: <input type="text" name="name">
 	Password: <input type="text" name="password">

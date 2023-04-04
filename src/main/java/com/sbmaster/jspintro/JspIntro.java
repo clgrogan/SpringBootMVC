@@ -1,13 +1,13 @@
-package com.sbmaster.todoapp;
+package com.sbmaster.jspintro;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ToDoAppApplication {
+public class JspIntro {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ToDoAppApplication.class, args);
+		SpringApplication.run(JspIntro.class, args);
 	}
 
 }
